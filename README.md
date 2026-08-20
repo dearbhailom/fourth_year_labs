@@ -4,11 +4,11 @@ structure:
 
   lab name/
   
-    notebooks/ analysis code
+   -notebooks/ analysis code
     
-    figures/ plots + diagrams
+   -figures/ plots + diagrams
     
-    data/ readings from lab, files for analysis
+   -data/ readings from lab, files for analysis
     
-    documentation/ sources, report, etc.
+   -documentation/ sources, report, etc.
     
